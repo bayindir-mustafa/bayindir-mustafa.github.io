@@ -1,3 +1,3 @@
 ## About
 
-Notes about my proffesional and daily life journey.
+Notes about my professional and daily life.
