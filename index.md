@@ -1,3 +1,3 @@
 ## About
 
-Notes about my professional and daily life.
+Notes of my professional and daily life.
