@@ -1,3 +1,4 @@
+<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
 ## About
 
 Notes of my professional and daily life.
@@ -9,18 +10,6 @@ A-->B;
 A-->C;
 B-->D;
 C-->D;
-```
-
-
-
-```html
-<div class="mermaid">
-graph TD;
-A-->B;
-A-->C;
-B-->D;
-C-->D;
-</div>
 ```
 
 <div class="mermaid">
