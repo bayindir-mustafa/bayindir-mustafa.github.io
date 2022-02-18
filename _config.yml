@@ -22,7 +22,7 @@ theme: "minima"
 
 rss: rss
 
-markdown: kramdown
+markdown: GFM
 
 kramdown:
   syntax_highlighter_opts:
