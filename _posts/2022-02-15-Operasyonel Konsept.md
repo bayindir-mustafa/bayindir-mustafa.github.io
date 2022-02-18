@@ -39,12 +39,12 @@ Business/mission veya teknolojik faktörler yeni sistemlere olan ihtiyacı doğu
 
 Uzun soluklu iş hedefleri iş gayelerini oluşturur. İş gaye ve hedefleri kontrolümüzde olabilecek sonuçları ifade ederken, iş çıktıları ise bizim belli bir yere kadar kontrol edebileceğimiz sonuçlardır.
 
-<div class="mermaid">
+<code class="mermaid">
 graph TD
   A(İş Hedefi #1) <-- oluşturur__ --> B(İş Gayeleri)
   D(İş Hedefi #2) <-- oluşturur__ --> B(İş Gayeleri)
 	B-. sebep olur__ .->C(İş Çıktıları)
-</div>
+</code>
 
 >Business drivers are the key inputs and activities that drive the operational and financial results of a business.
 
