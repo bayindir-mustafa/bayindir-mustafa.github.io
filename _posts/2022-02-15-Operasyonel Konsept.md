@@ -1,4 +1,4 @@
-# Kapsam
+# Operasyonel Konsept Dokümanı
 
 Operasyonel Konsept Dokümanu (OpKonsDok) İş Geliştirme ve pazarlamaya yönelik olarak yapılacak olan iletişimde kullanılacak temel doküman olarak değerlendirilebilir. Doküman sadece müşterilere değil aynı zamanda çözüm tarafında tasarımcılar ile ilitişim için de kullanılacaktır.
 
