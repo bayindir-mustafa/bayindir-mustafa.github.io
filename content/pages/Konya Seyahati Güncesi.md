@@ -1,9 +1,10 @@
 ---
-title: Konya Seyahati Güncesi
 tags:
+- gezi
+title: Konya Seyahati Güncesi
 categories:
 date: 2024-05-20
-lastMod: 2024-05-20
+lastMod: 2024-05-21
 ---
 19 Mayıs #2024 tarihinde öncelik KONYA Çatalhöyük olmak üzere bir gezi yapmaya #Karar verdik.
 
@@ -18,5 +19,3 @@ Sabaha tarihi Sille köyünde bir kahvaltı ile başladık. Kırık Testi isimli
 Ardından Çatalhöyük ören yerini gezmek üzere bir harekete geçtik. Sille Çatalhöyük arası yaklaşık 50 km, Konya'da pazar trafiği oldukça sakindi ve Ören yerinde gitmemiz, 30-40 dakika sürdü.
 
 Kültür ve Turizm bakanlığı eski tesisleri yenileri ile değiştirmek üzere bir çalışma başlatmış. Karşılama alanı diye adlandırılan bina tamamlanmış. Güzel bir kafesi var ve fiyatları makul. Ören yerini gezmek üzere planlanan platform henüz tamamlanmamış ancak tamamlanınca ören yeri çepe çevre gezilebilecek. Karşılama alanı olarak adlandırılan binanın önünde 60-70 araçlık bir otopark var. Bu bina interaktif bir müze olarak tasarlanmış. Normalde sadece Çatalhöyük kazı alanını görseniz burun kıvıracağınız bir yer burası sayesinde ilgi çakici bir mekana dönüşüyor. İçinde iki saatinizi rahatlıkla harcarsınız.
-
-
