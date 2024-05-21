@@ -5,23 +5,22 @@ theme: "PaperMod"
 
 params:
   homeInfoParams:
-    Title: Sup bruh 😎
-    Content: This is something shows in your homepage.
-
+    Title: Paylaşılmayan İlim, İlim Değildir
+    Content: Knowledge in short terms.
   socialIcons: # optional
     - name: "github"
       url: "https://github.com/XXX"
     # - name: "youtube"
     #   url: "https://www.youtube.com/channel/XXX"
-    - name: "twitter"
-      url: "https://twitter.com/XXX"
+    # - name: "twitter"
+    #  url: "https://twitter.com/XXX"
     # - name: "kofi"
     #   url: "https://buymeacoffee.com/XXX"
     # - name: "rss"
     #   url: "https://XXX.github.io/index.xml"
   ShowReadingTime: true
-  author: "Linus Torvalds"
-  contact: "LinusT@example.com"
+  author: "Mustafa BAYINDIR"
+  contact: "bayindir@icloud.com"
   feedlinks: true
   copyright: "<!--Creative Commons License-->This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).<!--/Creative Commons License-->"
   mobileMenu: true
