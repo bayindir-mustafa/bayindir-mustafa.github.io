@@ -4,13 +4,11 @@ tags:
 - ören-yeri
 - konya
 - yht
-- tag
 category: gezi
-title: noteName
-fileName: 
+title: Çatalhöyük Gezisi
 categories: gezi
-date: 
-lastMod: 
+date: 2024-05-20
+lastMod: 2024-05-22
 ---
 19 Mayıs 2024 tarihinde ailecek öncelik Çatalhöyük olmak üzere bir Konya gezisi yaptık.
 
