@@ -6,7 +6,7 @@ theme: "PaperMod"
 params:
   homeInfoParams:
     Title: Paylaşılmayan İlim, İlim Değildir
-    Content: Knowledge in short terms.
+    Content: Gathered knowledge, explained in short terms
   socialIcons: # optional
     - name: "github"
       url: "https://github.com/XXX"
